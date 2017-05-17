@@ -8,5 +8,5 @@ h1 {
   font-weight: 400;
   padding: 2em;
   margin: 1em;
-  background: #ccc url(../img/foo.png) no-repeat;
+  background: #ccc;
 }
